@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NguyenQBinh210
-- 👀 I’m interested in IT
+- 👋 Hi, I’m Quốc Bình Nguyễn
+- 👀 I’m intern Fullstack develope
 - 🌱 I’m currently learning fullstack develope
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
